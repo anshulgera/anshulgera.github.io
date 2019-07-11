@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: anshulgera
-  instagram:
+  instagram:anshulgera
   linkedin: anshulgera
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+theme: jekyll-theme-dinky
+
+plugins:
+  - jekyll-seo-tag
