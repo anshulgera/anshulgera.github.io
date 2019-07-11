@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi I'm Anshul Gera.
 
-### More Information
+# ### More Information
 
 
 
