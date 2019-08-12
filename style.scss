@@ -272,7 +272,13 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  // margin-top: 50px;
+  position: fixed;
+  height: 50px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-block: 0px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
